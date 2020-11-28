@@ -8,3 +8,5 @@ C'est pour test, voir si on incorpore les modifications.
 
 modif locale
 
+Second test : modifications distantes avant pull.
+
