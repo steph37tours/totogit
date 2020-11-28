@@ -5,3 +5,5 @@ pour totoGit
 Je fais de superbes modifications dans mon fichier. Maintenant il va faire des looping !
 
 C'est pour test, voir si on incorpore les modifications.
+
+Second test : modifications distantes avant pull.
