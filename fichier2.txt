@@ -3,3 +3,6 @@ pour totoGit
 2ème fichier
 
 Je fais de superbes modifications dans mon fichier. Maintenant il va faire des looping !
+
+Cette fois-ci je fais un ajout dans la branche toto2
+
